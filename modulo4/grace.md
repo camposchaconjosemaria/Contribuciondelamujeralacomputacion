@@ -8,7 +8,7 @@
 pionera en el mundo de las ciencias de la computación y la primera programadora que utilizó el Mark I. Desarrolló el primer compilador para un lenguaje de programación 
 así como también propició métodos de validación.
 
-Popularizó la idea de los lenguajes de programación independientes de la máquina, lo que derivó en el desarrollo de **COBOL**, un lenguaje de alto nivel 
+Popularizó la idea de los lenguajes de programación independientes de la máquina, lo que derivó en el desarrollo de [**COBOL**](cobol.md), un lenguaje de alto nivel 
 de programación que aún se utiliza.
 
 ## Biografía
