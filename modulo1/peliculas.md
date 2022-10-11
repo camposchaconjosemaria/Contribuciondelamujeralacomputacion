@@ -1,0 +1,37 @@
+# Carrera Cinematográfica:
+
+- Geld auf der Straße (Dinero en la calle, 1930), dirigida por Georg Jacoby.
+- Die Blumenfrau von Lindenau (La mujer de Lindenau, 1931), dirigida por Georg Jacoby.
+- Die Koffer der Herrn O.F. (Las maletas del señor O.F., 1931), dirigida por Alexis Granowsky.
+- Man braucht kein Geld (No necesitamos dinero, 1932), dirigida por Carl Boese.
+- Ekstase / Symphonie der Liebe (Éxtasis, 1933), película checoeslovaca dirigida por Gustav Machaty (con Hedwig Eva Maria Kiesler y Aribert Mog); es una de las primeras películas que habló de la infidelidad cometida por una mujer, fue condenada por la Liga de la Decencia y por el papa Pío XI sobre todo porque mostraba directamente su rostro durante el orgasmo.
+- Hollywood Goes to Town (1938) (breve aparición)
+- Algiers (Argel, 1938), dirigida por John Cromwell.
+- Screen Snapshots: Stars at a Charity Ball (1939) (breve aparición)
+- Lady of the Tropics (1939), dirigida por Jack Conway y protagonizada con Robert Taylor.
+- I Take This Woman (Esta mujer es mía, 1940), dirigida por W. S. Van Dyke y protagonizada con Spencer Tracy.
+- Boom Town (Fruto dorado, 1940), dirigida por Jack Conway y protagonizada además por Clark Gable, Spencer Tracy y Claudette Colbert.
+- Camarada X (Comrade X) (1940), dirigida por King Vidor y protagonizada con Clark Gable.
+- Come Live With Me (No puedo vivir sin ti, 1941), dirigida por Clarence Brown.
+- Ziegfeld Girl (Las chicas de Ziegfeld, 1941) dirigida por Robert Z. Leonard.
+- H.M. Pulham, Esq. (Cenizas de amor, 1941), dirigida por King Vidor.
+- Tortilla Flat (La vida es así, 1942), dirigida por Victor Fleming.
+- Crossroads (1942), dirigida por Jack Conway.
+- White Cargo (1942), dirigida por Richard Thorpe.
+- Show Business at War (1943) (breve)
+- The Heavenly Body (Mundo celestial, 1944)
+- The Conspirators (1944), dirigida por Jean Negulesco y protagonizada con Paul Henreid, Sydney Greenstreet y Peter Lorre.
+- Experiment Perilous (Noche en el alma, 1944), dirigida por Jacques Tourneur.
+- Her Highness and the Bellboy (1945), dirigida por Richard Thorpe.
+- The Strange Woman (La extraña mujer, 1946), dirigida por Edgar G. Ulmer.
+- Dishonored Lady (Pasión que redime, 1947), dirigida por Robert Stevenson.
+- Let's Live a Little (Vivamos un poco, 1948), dirigida por Richard Wallace.
+- Sansón y Dalila (1949), dirigida por Cecil B. DeMille, donde tuvo uno de los dos papeles principales.
+- A Lady Without Passport (1950), dirigida por Joseph H. Lewis.
+- Copper Canyon (El desfiladero del cobre, 1950), dirigida por John Farrow.
+- My Favorite Spy (Mi espía favorita, 1951), dirigida por Norman Z. McLeod.
+- The Eternal Female (1954) (inconclusa)
+- L'amante di Paride (La manzana de la discordia, —en inglés Loves of Three Queens—, 1954), dirigida por Marc Allégret y Edgar G. Ulmer.
+- The Story of Mankind (La historia de la humanidad, 1957), dirigida por Irwin Allen.
+- The Female Animal (1958), dirigida por Harry Keller.
+
