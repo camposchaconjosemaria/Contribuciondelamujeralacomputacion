@@ -3,6 +3,8 @@ En este tema hablaremos de la contribución de la mujer en la computación en la
 ## Contenidos
 - [Hedy Lamarr](modulo1/hedyLamarr.md)
 - [Radia Perlman](modulo2/radia.md)
+- [Joan](modulo3/joan.md)
+- [Grace](modulo4/grace.md)
 
 ## Referencias
 
