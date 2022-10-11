@@ -1,6 +1,6 @@
 # Elena García Armada
 
-
+![image](elenag.png)
 
 ## Introducción
 
@@ -18,9 +18,6 @@ Elena García Armada es además fundadora de Marsi Bionics,empresa derivada del 
 estructuras basadas en soportes que se ajustan a las piernas y al tronco del niño, y que al incorporar motores que imitan el funcionamiento del músculo, 
 le aportan fuerza para caminar y mantenerse en pie.
 
-En el campo de la creación de exoesqueletos pediátricos, el proyecto más destacado y premiado ha sido ATLAS 2020,un exoesqueleto de 9 kilogramos de peso capaz de controlar 
-la rigidez mientras permite un movimiento más ágil y articulado mediante sus diferentes sensores de fuerza, presión y temperatura. Está dotado de articulaciones inteligentes 
-que interpretan los movimientos del paciente detectando cuáles son deseados y cuáles indeseados, algo fundamental ya que en muchos casos existen movimientos espasmódicos que,
-mal interpretados, conllevan serios riesgos de seguridad al paciente.
+En el campo de la creación de exoesqueletos pediátricos, el proyecto más destacado y premiado ha sido ***ATLAS 2020***,un exoesqueleto de 9 kilogramos de peso capaz de controlar la rigidez mientras permite un movimiento más ágil y articulado mediante sus diferentes sensores de fuerza, presión y temperatura. Está dotado de articulaciones inteligentes que interpretan los movimientos del paciente detectando cuáles son deseados y cuáles indeseados, algo fundamental ya que en muchos casos existen movimientos espasmódicos que,mal interpretados, conllevan serios riesgos de seguridad al paciente.
 
-[**Premios y reconocimientos**]
+[**Premios y reconocimientos**](modulo5/premioselena.md)
