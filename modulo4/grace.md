@@ -1,6 +1,6 @@
 # Grace Murray
 
-
+![image](gracem.png)
 
 ## Introducción
 
