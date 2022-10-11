@@ -1,5 +1,6 @@
 # Joan Clarke
 
+![image](joanc.jpg)
 
 ## Introducción
 
