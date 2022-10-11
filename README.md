@@ -3,8 +3,8 @@ En este tema hablaremos de la contribución de la mujer en la computación en la
 ## Contenidos
 - [Hedy Lamarr](modulo1/hedyLamarr.md)
 - [Radia Perlman](modulo2/radia.md)
-- [Joan](modulo3/joan.md)
-- [Grace](modulo4/grace.md)
+- [Joan Clarke](modulo3/joan.md)
+- [Grace Murray](modulo4/grace.md)
 
 ## Referencias
 
@@ -14,3 +14,9 @@ En este tema hablaremos de la contribución de la mujer en la computación en la
 - Raida Perlman
   * [Wikipedia](https://es.wikipedia.org/wiki/Radia_Perlman)
   * [Foro Histórico](https://forohistorico.coit.es/index.php/personajes/personajes-internacionales/item/perlman-radia)
+- Joan Clarke
+  * [Wikipedia](https://es.wikipedia.org/wiki/Joan_Clarke)
+  * [BBC](https://www.bbc.com/mundo/noticias/2014/11/141111_reino_unido_joan_clarke_mujer_enigma_lv)
+- Grace Murray
+  * [Wikipedia](https://es.wikipedia.org/wiki/Grace_Murray_Hopper)
+  * [Busca Biografías](https://www.buscabiografias.com/biografia/verDetalle/5791/Grace%20Murray%20Hopper)
