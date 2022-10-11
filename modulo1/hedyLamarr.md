@@ -4,7 +4,7 @@
 
 ## Introducción
 **Hedwin Eva Maria Kiesler**, conocida como ***Hedy Lamarr***, nació el 9 de noviembre de 1914 en Viena.
-Fue una actriz muy conocida debido a su belleza y a la multitud de peliculas en las que actuó. Y pasó de ser reconocida
+Fue una actriz muy conocida debido a su belleza y a la multitud de [peliculas](peliculas.md) en las que actuó. Y pasó de ser reconocida
 como "*La mujer más bella del cine*" a la precursora de la tecnología que se usa hoy en día en las comunicaciones inalámbricas de los móviles,
 GPS y wifi.
 
