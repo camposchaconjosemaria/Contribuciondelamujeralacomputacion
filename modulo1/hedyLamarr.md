@@ -22,4 +22,4 @@ su carrera cinematográfica, de la mano de **Louis B. Mayer**, empresario de la 
 al gobierno de los EE.UU.
 
 **Hedy Lamarr** consiguió la colaboración de **George Antheil** con el que trabajó intensamente, desarrollando un "*Sistema de comunicaciones secreto*" con el cual
-los misiles lanzados por los "aliados" teledirigídos por radio, no pudieran ser detectados por los "enemigos", gracias a los cambios de frecuencia. y en **1942** consiguió la patente de este invento aunque en esa época solo se le reconocía por sus campañas publicitarias utilizando su imagen. Además añadir que no cobró ni un centavo por esta patente, y sus reconocimientos como inventora tardaron en llegar.
+los misiles lanzados por los "aliados" teledirigídos por radio, no pudieran ser detectados por los "enemigos", gracias a los cambios de frecuencia. Y en **1942** consiguió la patente de este invento aunque en esa época solo se le reconocía por sus campañas publicitarias utilizando su imagen. Además añadir que no cobró ni un centavo por esta patente, y sus reconocimientos como inventora tardaron en llegar.
