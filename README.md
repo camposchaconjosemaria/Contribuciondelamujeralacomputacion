@@ -5,6 +5,7 @@ En este tema hablaremos de la contribución de la mujer en la computación en la
 - [Radia Perlman](modulo2/radia.md)
 - [Joan Clarke](modulo3/joan.md)
 - [Grace Murray](modulo4/grace.md)
+- [Elena García Armada](modulo5/elena.md) "**Científica actual Española**"
 
 ## Referencias
 
@@ -20,3 +21,9 @@ En este tema hablaremos de la contribución de la mujer en la computación en la
 - Grace Murray
   * [Wikipedia](https://es.wikipedia.org/wiki/Grace_Murray_Hopper)
   * [Busca Biografías](https://www.buscabiografias.com/biografia/verDetalle/5791/Grace%20Murray%20Hopper)
+- Elena García Armada
+  * [Wikipedia](https://es.wikipedia.org/wiki/Elena_Garc%C3%ADa_Armada)
+  
+## Licencia
+
+
