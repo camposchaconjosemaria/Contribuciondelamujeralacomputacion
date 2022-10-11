@@ -23,7 +23,8 @@ Asistió a la escuela de cadetes navales para mujeres, graduándose la primera d
 en el proyecto de computación que dirigía el comandante Howard Aiken, la construcción de la ***Mark I***. Al acabar la ***Guerra***, quería seguir perteneciendo a la 
 armada pero se mantuvo en la reserva debido a su edad. 
 
-Permaneció en Harvard hasta 1949,cuando Hopper empezó a trabajar en la Eckert - Mauchly Corporation en Filadelfia, que en esos momentos estaban desarrollando las computadoras
-***BINAC*** y ***UNIVAC I***, donde **Hopper** realizó sus mayores contribuciones a la programación moderna. En 1952, desarrolló el primer compilador de la historia, el **A-0**, y en 
-1957 realizó el primer compilador para procesamiento de datos que usaba órdenes en inglés, el **B-0** (FLOW-MATIC), utilizado principalmente para el cálculo de nóminas.
+Permaneció en Harvard hasta 1949,cuando Hopper empezó a trabajar en la Eckert - Mauchly Corporation en Filadelfia, que en esos momentos estaban desarrollando las computadoras ***BINAC*** y ***UNIVAC I***, donde **Hopper** realizó sus mayores contribuciones a la programación moderna. En 1952, desarrolló el primer compilador de la historia, el **A-0**, y en 1957 realizó el primer compilador para procesamiento de datos que usaba órdenes en inglés, el **B-0** (FLOW-MATIC), utilizado principalmente para el cálculo de nóminas.
 
+### Premios y Reconocimientos
+
+A lo largo de su vida, recibió numerosos reconocimientos, que incluyen más de 40 *doctorados honoris causa*, la *Medalla Wilbur Lucius Cross de Yale*, el rango de *capitán en 1973*, el de *comodoro en 1983* y el de *contraalmirante en 1985*. **Única mujer con el grado de almirante de su país**.
